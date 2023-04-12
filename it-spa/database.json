@@ -1,0 +1,142 @@
+{
+  "users": [
+    {
+      "email": "pawel.tester@wp.pl",
+      "password": "ASD$!@!@113232",
+      "id": 1
+    },
+    {
+      "email": "kamil.programista@gmail.com",
+      "password": "Kodkod!@#",
+      "id": 2
+    },
+    {
+      "email": "michal.szef@op.pl",
+      "password": "NazywamSieMichal123",
+      "id": 3
+    },
+    {
+      "email": "janusz.analityk@firma.pl",
+      "password": "BPMNtojestto!^",
+      "id": 4
+    },
+    {
+      "email": "anna.frontend@firma.pl",
+      "password": "JSjsHipHipHura$%!",
+      "id": 5
+    },
+    {
+      "email": "artur.administrator@firma.pl",
+      "password": "uMnieDziała90!",
+      "id": 6
+    },
+    {
+      "email": "panprzemek@buziaczek.pl",
+      "password": "manager123",
+      "id": 7
+    }
+  ],
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Pokój unarny",
+      "beds": 1,
+      "guests": 1,
+      "price": 170,
+      "photo": "https://i.ibb.co/8rh3XMH/room1.jpg",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+    },
+    {
+      "id": 2,
+      "name": "Pokój binarny",
+      "beds": 1,
+      "guests": 2,
+      "price": 240,
+      "photo": "https://i.ibb.co/K7bFLRj/room2.jpg",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+    },
+    {
+      "id": 3,
+      "name": "Pokój trójkowy",
+      "beds": 2,
+      "guests": 3,
+      "price": 290,
+      "photo": "https://i.ibb.co/Gpdfq5c/room3.jpg",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+    },
+    {
+      "id": 4,
+      "name": "Pokój czwórkowy",
+      "beds": 2,
+      "guests": 4,
+      "price": 340,
+      "photo": "https://i.ibb.co/rFr7BbM/room4.jpg",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+    }
+  ],
+  "treatments": [
+    {
+      "id": 1,
+      "name": "Masaż rozgrzanym monitorem",
+      "area": "back",
+      "time": 30,
+      "price": 80,
+      "shortdescription": "Eksluzywny masaż nagrzanym monitorem kineskopowym zapewni Twoim plecom uczucie relaksacji z jednoczesnym kojącym szumieniem, wydobywającym się z postawionego obok zasilacza.",
+      "photo": "https://i.ibb.co/Jzt4GR3/massage.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Biczowanie kablem od myszy",
+      "area": "back",
+      "time": 20,
+      "price": 70,
+      "shortdescription": "Gratka dla prawdziwych fanów intensywnych doznań, na koniec zabiegu zapewniamy masaż kulką od myszki.",
+      "photo": "https://i.ibb.co/f0nkbC6/mouse.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Peeling odłamkami płyty CD",
+      "area": "face",
+      "time": 15,
+      "price": 50,
+      "shortdescription": "Oczyszczający zabieg twarzy wykorzystujący drobno zmielone opiłki z płyt CD z instalatorem Win95.",
+      "photo": "https://i.ibb.co/FYwPMV5/fish.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pedicure woskiem spod klawiatury",
+      "area": "legs",
+      "time": 25,
+      "price": 100,
+      "shortdescription": "Dla naszych klientów specjalnie pozyskujemy kurz i wosk spod klawiatur z lokalnego software house. W składzie gwarantowane pozostałości kofeiny oraz okruchy pieczywa.",
+      "photo": "https://i.ibb.co/YpwZ0hy/horse-feet.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Manicure analogowo-cyfrowy",
+      "area": "hands",
+      "time": 45,
+      "price": 150,
+      "shortdescription": "Skutecznie usuwa skutki obgryzania paznokci powstałe przy przekraczaniu nieprzekraczalnych deadline-ów",
+      "photo": "https://i.ibb.co/dDRQTqC/dog-feet.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Kąpiel w gorącej kawie",
+      "area": "body",
+      "time": 60,
+      "price": 200,
+      "shortdescription": "Odświeżająca, energetyzująca kawowa kąpiel, która pobudzi ciało i umysł (można kosztować)",
+      "photo": "https://i.ibb.co/ck7CnY0/bear.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Depilacja dyskiem twardym",
+      "area": "body",
+      "time": 45,
+      "price": 120,
+      "shortdescription": "Na czas zabiegu maksymalnie obciążamy nasze dyski by zapewnić najwyższą skuteczność depilacji. Zaczerwienie skóry jest efektem ubocznym po zabiegu.",
+      "photo": "https://i.ibb.co/Gdvwqyx/sphinx.jpg"
+    }
+  ]
+}
